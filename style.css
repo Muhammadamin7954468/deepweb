@@ -1,0 +1,378 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 100%;
+    margin-right: auto;
+    margin: auto;
+}
+.server{
+    background: url(img/Rectangle@2x.png) center/cover;
+    height: 800px;
+}
+body{
+    font-family: monospace;
+}
+.footer_content{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+    color: aliceblue;
+
+}
+.footer_content img{
+    text-align: start;
+}
+.ul a:hover{
+    color: rgb(7, 209, 254);
+}
+.ul{
+    display: flex;
+    list-style: none;
+    margin-left: 300px;
+}
+.ul a{
+    text-decoration: none;
+    margin-left: 30px;
+    color: aliceblue;
+}
+.kil h1{
+    font-size: 60px;
+}
+.kil{
+    padding-top: 220px;
+    color: aliceblue;
+    margin-left: 100px;
+}
+
+.aim{
+    font-size: 27px;
+    position: absolute;
+    padding-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.kil3 a{
+    font-weight: bold;
+    font-size: 16px;
+}
+.call{
+   height: 50px;
+    background: #FC0A7E;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px;
+    color: white;
+    text-decoration: none;
+    margin-top: 70px;
+    width: 120px;
+}   
+  
+.kil h3{
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mes img{
+    height: 680px;
+    width: 652px;
+    margin-top: 20px;
+}
+.gif{
+    display: flex;
+    margin-left: 55px;
+}
+.fich img{
+    height: 680px;
+    width: 650px;
+    padding-top: 30px;
+}
+.rich{
+    display: flex;
+    justify-content: space-between;
+}
+main{
+    background: #1B1B1B;
+    height: 866px;
+    margin-bottom: 80px;
+}
+.just p{
+    color: #D3D3D3;
+}
+.just h1{
+    padding-top: 20px;
+}
+.just{
+    text-align: center;
+    color: aliceblue;
+    padding-top: 100px;
+}
+.just1{
+    text-align: center;
+}
+.just1 img{
+    padding-top: 69px;
+    height: 600px;
+    width: 1100px;
+}
+
+.hud1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 160px;
+}
+.rich1 img{
+    width: 341px;
+    height: 637px;
+}
+.rich3 img{
+    width: 386px;
+    height: 469px;
+}
+.hud2{
+    align-self: center;
+}
+.jus p{
+    padding-top: 20px;
+    color: #6B6B6B;
+}
+.jus1{
+    margin-bottom: 30px;
+}
+.richr img{
+    width: 341px;
+    height: 508px;
+}
+.jec img{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.jec3 img{
+    text-align: center;
+    margin-bottom: 30px;
+    height: 34px;
+    width: 72px;
+}
+.vip p{
+    color: #6B6B6B;
+}
+.vip h4{
+    margin-bottom: 15px;
+}
+.vip{
+    max-width: 300px;
+    text-align: center;
+}
+.vip1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 160px;
+}
+.kil3 h1{
+    font-size: 59px;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.mip img{
+    width: 519px;
+    height: 414px;
+    margin-left: 60px;
+}
+.zip{
+    max-width: 300px;
+    display: flex;
+    align-items: center;
+}
+.zip p{
+    margin-bottom: 30px;
+    font-size: 16px;
+    color: #6B6B6B;
+}
+.gip{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 170px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 160px;
+}
+.zit h2{
+    font-size: 38px;
+}
+.jus4{
+    padding-top: 23px;
+    color: #6B6B6B;
+}
+.img img{
+    width: 519px;
+    height: 414px;
+}
+.lip{
+    max-width: 350px;
+    display: flex;
+    align-items: center;
+    margin-left: 77px;
+}
+.alies{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 160px;
+}
+.lip p{
+    margin-bottom: 20px;
+    color: #6B6B6B;
+    font-size: 16px;
+}
+.m1{
+    text-align: center;
+}
+.m2{
+    margin-bottom: 200px;
+}
+.m1 img{
+    width: 58px;
+    height: 48px;
+}
+.xud{
+    text-align: center;
+    font-size: 18px;
+    max-width: 800px;
+    margin: auto;
+    padding-top: 60px;
+    color: #6B6B6B;
+}
+.server1{
+    font-size: 16px;
+    padding-top: 18px;
+}
+.fer3 img{
+    width: 1008px;
+    height: 35px;
+}
+.fer3{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.clas img{
+    width: 1285px;
+    height: 518px;
+}
+.senter{
+    background: #1B1B1B;
+    width: 1285px;
+    height: 700px;
+}
+.ft{
+    color: #D3D3D3;
+    text-align: center;
+}
+.ft1{
+    background-color: #FC0A7E;
+    color: rgb(230, 226, 222);
+    height: 51px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    text-decoration: none;
+    font-size: 13px;
+    list-style: none;
+}
+.ft3{
+    text-align: center;
+    padding-top: 160px;
+}
+.ft h1{
+    margin-bottom: 40px;
+    font-size: 38px;
+}
+.jip{
+    display: flex;
+    justify-content: center;
+}
+.ft2{
+    color: rgb(230, 226, 222);
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    text-decoration: none;
+    font-size: 13px;
+    list-style: none;
+    border: 1px #818181 solid;
+    margin-left: 10px;
+}
+.n1 img{
+    width: 9px;
+    display: flex;
+    margin: auto;
+}
+.mus{
+    background: url(img/photo-1600004853937-857d1070d505.jpg) center/cover;
+    height: 474px;
+}
+.footer-form textarea{
+    background: #ffffff;
+    padding: 8px;
+    border: 1px rgb(160, 159, 159) solid;
+    outline: none;
+    width: 210px;
+    height: 33px;
+    resize: none;
+}
+.cil1 h1{
+    font-size: 38px;
+}
+.cil{
+    text-align: center;
+    padding-top: 120px;
+}
+.cil1 p{
+    padding-top: 20px;
+    font-size: 16px;
+    color: #6B6B6B;
+}
+.cil1{
+    margin-bottom: 40px;
+    color: #D3D3D3;
+}
+.b1 {
+    background-color: #FC0A7E;
+    color: rgb(230, 226, 222);
+    height: 51px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    text-decoration: none;
+    font-size: 13px;
+    list-style: none;
+}
+.fit{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 156px;
+}
+.ves{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.f1 a:hover{
+    color: rgb(7, 209, 254);
+}
+.f1{
+    display: flex;
+    list-style: none;
+    margin-left: 300px;
+}
+.f1 a{
+    text-decoration: none;
+    margin-left: 30px;
+    color: #6B6B6B;
+}
